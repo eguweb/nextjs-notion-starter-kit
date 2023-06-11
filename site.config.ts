@@ -27,7 +27,7 @@ export default siteConfig({
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
-  defaultPageCover: null,
+  defaultPageCover: 'https://eguchi.help/_next/image?url=https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Ffile.notion.so%252Ff%252Fs%252Fe75b439d-64b1-42c1-bd9f-b37f2d3df861%252F26736915_m.jpg%253Fid%253D877ca344-44ca-4495-b8e3-07fe9ab70ce4%2526table%253Dblock%2526spaceId%253Db78c58cf-01e4-466d-a74d-f4dbbb6b0294%2526expirationTimestamp%253D1686567486776%2526signature%253DEt1qBKfKKAw4tXIzbV1z9b3s1uFrUfd385hxOq3PFyo%3Ftable%3Dblock%26id%3D877ca344-44ca-4495-b8e3-07fe9ab70ce4%26cache%3Dv2&w=2048&q=75',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
