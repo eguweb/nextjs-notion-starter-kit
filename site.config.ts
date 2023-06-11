@@ -26,7 +26,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  defaultPageIcon: 'http://eguweb.tech/wp-content/uploads/2023/06/23803730.png',
   defaultPageCover: 'https://eguweb.jp/wp-content/uploads/1407330.jpg',
   defaultPageCoverPosition: 0.5,
 
